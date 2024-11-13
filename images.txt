@@ -1,1 +1,1 @@
-rancher-agent:v2.5.17-linux-amd64
+rancher/rancher-agent:v2.5.17-linux-amd64
